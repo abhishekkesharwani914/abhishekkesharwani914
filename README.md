@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me suggest me
+- 📫 How to reach me Instagram, facebook, linkedin. 
 
 <!---
 abhishekkesharwani914/abhishekkesharwani914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
