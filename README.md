@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abhishekkesharwani914
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on Google
+- 👋 Hi, I’m Abhishek Kesharwani
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking myself as developer on FAANG Companies.
+- 👀 Turning coffee into code
 - 📫 How to reach me Instagram, facebook, linkedin. 
 
 <!---
