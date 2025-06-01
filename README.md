@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java & DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.xyz.com](https://www.xyz.com)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-kesharwani-5019b4215/](https://www.linkedin.com/in/abhishek-kesharwani-5019b4215/))
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abhishek-kesharwani-5019b4215/](https://www.linkedin.com/in/abhishek-kesharwani-5019b4215/)
 
