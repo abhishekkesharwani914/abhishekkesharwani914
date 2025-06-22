@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kesharwani</h1>
-<h3 align="center">A passionate MERN & Full-Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkesharwani914&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkesharwani914" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishe64111743" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe64111743?logo=twitter&style=for-the-badge" alt="abhishe64111743" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Website](https://kalakriti-mern.vercel.app/)
+- 🔭 I’m currently working on [E-commerce Website], [Bluestock Fintech]
 
 - 🌱 I’m currently learning **Java & DSA**
 
